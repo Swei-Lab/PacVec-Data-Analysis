@@ -1,11 +1,13 @@
-# PacVec-Data-Analysis
-PacVec Project Data Analysis: Includes years 2023 and 2024
+# PacVec-Data-Analysis 
+Abstract
+
+Lyme disease, which is caused by the bacterium Borrelia burgdorferi, remains the most prevalent vector-borne disease in the United States. Lyme disease is maintained through an enzootic cycle of pathogen transmission exchanged between infected reservoir hosts and questing tick vectors. Reservoir host targeted strategies have recently been examined for their ability to disrupt the enzootic transmission cycle of Lyme disease within natural environments. Currently, there have been no studies in the western U.S. examining the effect of permethrin and deltamethrin-based topical acaricides targeting multiple reservoir host species over continuous years of treatment application. We evaluated reservoir targeted topical acaricide treatments in California to examine their impact on attached larval Ixodes pacificus ticks and the density of questing nymphal I. pacificus ticks in the year following application. Modified bait stations were applied with topical acaricides to treat reservoir host species throughout peak tick questing activity. Topical acaricide treatments including permethrin and deltamethrin were tested on three sets of paired, replicate plots. Our results show that larval I. pacificus tick burdens decreased significantly on all reservoir hosts present at acaricide treated plots compared to control plots. In addition, the density of questing nymphal I. pacificus was significantly lower at acaricide treated plots compared to control plots in the year following treatment introduction. This suggests that in the western U.S. host-targeted, topical acaricide treatments are a highly effective strategy for reducing reservoir-attached ticks as well as the abundance of questing nymphal ticks.
 
 Description of data and file structure - 
-  "Newton_Manuscript_1" R script in .R format to be used in R or RStudio. Script includes all necessary packages and instructions to set up analysis of host larval Ixodes pacificus burdens and questing nymphal I. pacificus density modeling. Code for comparing the total abundance of captured host species by treatment type are included. 
+  "Newton_Manuscript_1" R script in .R format to be used in R or RStudio. Script includes all necessary packages and instructions to set up analysis of host    larval Ixodes pacificus burdens and questing nymphal I. pacificus density modeling. Code for comparing the total abundance of captured host species by        treatment type are included. 
 
 Source Code:
-"Newton_Manuscript_1"
+  "Newton_Manuscript_1"
 
 Packages used - 
   "ggplot2", "ggpattern", "glmmTMB"
@@ -36,7 +38,7 @@ Questing_Ticks_Master.csv
     
 
 Code/Software - 
-All analyses were run in R v.4.0.4
+All analyses were run in R v.4.3.1 and implemented the packages "ggplot", "ggpattern", and "glmmTMB" to generate figures and to evaluate treatment effect on host burdens and questing nymphal density.
   
 
 
