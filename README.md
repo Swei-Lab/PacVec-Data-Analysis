@@ -2,7 +2,7 @@
 PacVec Project Data Analysis: Includes years 2023 and 2024
 
 Description of data and file structure - 
-  "Newton_Manuscript_1" R script in .R format to be used in R or RStudio. Script includes all necessary packages and instructions are included to set up analysis for tick burden and density modeling. Code for running number of captured host species by treatment type comparison is included. 
+  "Newton_Manuscript_1" R script in .R format to be used in R or RStudio. Script includes all necessary packages and instructions to set up analysis of host larval Ixodes pacificus burdens and questing nymphal I. pacificus density modeling. Code for comparing the total abundance of captured host species by treatment type are included. 
 
 Source Code:
 "Newton_Manuscript_1"
