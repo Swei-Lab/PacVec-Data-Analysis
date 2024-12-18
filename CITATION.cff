@@ -1,0 +1,74 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Pacvec Dataset
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: 'Maxwell '
+    family-names: Newton
+    email: newton.maxwell7@gmail.com
+    affiliation: San Francisco State University
+    orcid: 'https://orcid.org/0009-0009-4805-1978'
+  - given-names: Andrea
+    family-names: Swei
+    email: aswei@sfsu.edu
+    affiliation: San Francisco State University
+  - given-names: Angie
+    family-names: Nakano
+    email: anakano@smcmvcd.org
+    affiliation: San Mateo County Mosquito and Vector Control
+  - given-names: Alexander
+    family-names: Esquivel
+    email: aesquivel@mail.sfsu.edu
+    affiliation: San Francisco State University
+  - given-names: 'Shannon '
+    family-names: Summers
+    email: shannonsummers25@gmail.com
+    affiliation: San Francisco State University
+repository-code: 'https://github.com/Swei-Lab/PacVec-Data-Analysis.git'
+abstract: >+
+  Lyme disease, which is caused by the bacterium Borrelia
+  burgdorferi, is the most prevalent vector-borne disease in
+  the United States. Lyme disease is maintained through an
+  enzootic cycle of pathogen transmission between infected
+  reservoir hosts and tick vectors. Reservoir host targeted
+  strategies have recently been examined for their ability
+  to disrupt the enzootic transmission cycle of Lyme disease
+  within natural environments. Currently, there have been no
+  studies in the western U.S. examining the effect of
+  permethrin and deltamethrin-based topical acaricides
+  targeting multiple reservoir host species over continuous
+  years of treatment application. We evaluated reservoir
+  targeted topical acaricide treatments in California to
+  examine their impact on attached Ixodes pacificus ticks
+  and the density of questing nymphal I. pacificus ticks in
+  the year following application. Modified bait stations
+  were applied with topical acaricides to treat reservoir
+  host species throughout peak tick questing activity.
+  Topical acaricide treatments including permethrin and
+  deltamethrin were tested on three sets of paired,
+  replicate plots. Our results show that larval I. pacificus
+  tick burdens decreased significantly on all reservoir
+  hosts present at acaricide treated plots compared to
+  control plots. In addition, the density of questing
+  nymphal I. pacificus was significantly lower at acaricide
+  treated plots compared to control plots in the year
+  following treatment introduction. This suggests that in
+  the western U.S. host-targeted, topical acaricide
+  treatments are a highly effective strategy for reducing
+  reservoir-attached ticks as well as the abundance of
+  questing nymphal ticks.
+
+keywords:
+  - Lyme disease
+  - Borrelia burgdorferi
+  - tick-borne disease
+  - Disease transmission
+  - Reservoir host targeted treatment
+commit: 304559c
+version: '1'
+date-released: '2024-12-18'
